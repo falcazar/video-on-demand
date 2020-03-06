@@ -1,0 +1,35 @@
+head {
+    display: flex;
+    width: 200px;
+    height: 100px;
+}
+
+
+body {
+    background: rgb(0, 0, 0);
+    color: rgb(125, 125, 125);
+}
+
+h1{color: red;}
+h2{color: royalblue;}
+h3{color: rgb(red, green, blue);}
+
+main {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+section {
+    display: flex1;
+    background: black;
+    margin: 50px auto;
+    width: 1200px;
+    text-align: left;
+}
+
+iframe {
+    display: flex3;
+    width: 300%;
+    height: 90%;
+    
+}
